@@ -1,0 +1,9 @@
+# ignore all logs file
+*.logs
+*.log
+
+#ignore vscode files
+*.vscode
+
+#ignore txt files
+*.txt
